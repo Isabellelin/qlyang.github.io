@@ -56,6 +56,7 @@ Bachelor of Applied Physics (Huangkun Class), School of Mathematics and Physics	
 -	Volunteered on POI platform to solve learning puzzles for junior and senior high school students, 2014.
 -	Organized a volunteer activity - "Thanks for Sanitation Workers and Care for the Urban Environment", 2016.
 -	Participated in volunteer activities such as Mulan Bazaar, Sun Village, and Science Museum, 2014-2017.
+
 #### Team Leader
 -	Organized a student social practice at China Railway Nanchang Group, 2014.
 
