@@ -14,12 +14,12 @@
 ### EDUCATION                                   
 #### Institute of Semiconductors- Chinese Academy of Sciences (IOS-CAS) 				  Beijing, China
 Master in Condensed Matter Physics, 	                                     (09/ 2017 – 06/ 2021) (Expected)
-- **Cumulative GPA**: 3.74/4.00; Major GPA: 3.94/4.00
+- **Cumulative GPA**: 3.74/4.00; **Major GPA**: 3.94/4.00
 - **Core Courses**: Advanced Quantum Mechanics, Advanced Semiconductor Physics, Theory of the Solid State, Designing Semiconductor Quantum Materials, Mesoscopic Physics, Thermodynamics and Kinetics of Materials
 - **Honors and Awards**: Merit Student
 #### University of Science and Technology Beijing (USTB)	 									  Beijing, China
 Bachelor of Applied Physics (Huangkun Class), School of Mathematics and Physics	   		  (09/2013 – 06/ 2017)
-- **Cumulative GPA**: 3.77/4.00; Major GPA: 3.91/4.00
+- **Cumulative GPA**: 3.77/4.00; **Major GPA**: 3.91/4.00
 - **Core Courses**: Solid State Physics, Quantum Mechanics, Computational Physics, Semiconductor Physics, Advanced Mathematics, Semiconductor Device and Process Analytical Mechanics, Probability & Mathematical Statistics
 - **Honors and Awards**: graduate with honor, National Inspirational Scholarship, HuangKun Scholarship, Merit Student, Outstanding Social Practice Award
 
