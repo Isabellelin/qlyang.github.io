@@ -1,41 +1,19 @@
 
-## Welcome to GitHub Pages
+;## Welcome to GitHub Pages
+;You can use the [editor on GitHub](https://github.com/Isabellelin/qlyang.github.io/edit/gh-pages/index.md) to maintain and preview the content for ;your website in Markdown files.
+;Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+;### Markdown
+;# Header 1
+;## Header 2
+;### Header 3
+;
+;- Bulleted
+;- List
+;1. Numbered
+;2. List
+;**Bold** and _Italic_ and `Code` text
 
-You can use the [editor on GitHub](https://github.com/Isabellelin/qlyang.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Isabellelin/qlyang.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 <table border="0">
   <tr>
@@ -45,15 +23,15 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
       <p><b>Address：No.A35, QingHua East Road, Haidian District, Beijing, China 100083</b></p>
     </td>
     <td width="25%">
-      <img src="/qlyang.jpg" width="60%">  
+      <img src="/qlyang.jpg" width="80%">  
     </td>
   </tr>
 </table>
 
-%### Personal Information 
-%#### Name: YANG QIAOLIN
-%#### Email: qlyang@semi.ac.cn 
-%#### Adress: No.A35, QingHua East Road, Haidian District, Beijing, China 100083
+;### Personal Information 
+;#### Name: YANG QIAOLIN
+;#### Email: qlyang@semi.ac.cn 
+;#### Adress: No.A35, QingHua East Road, Haidian District, Beijing, China 100083
 
 ### EDUCATION                                   
 #### University of Chinese Academy of Sciences & Institute of Semiconductors- Chinese Academy of Sciences (IOS-CAS) 				  Beijing, China
@@ -69,27 +47,27 @@ Bachelor of Applied Physics (Huangkun Class), School of Mathematics and Physics	
 
 ### RESEARCH EXPERIENCE 
 #### State Key Laboratory for Superlattices and Microstructures | IOS- CAS				 01/2020-Present
--	Item: The fundamental factors affecting carrier mobility in quantum wells
--	Motivation: Nowadays, one of the key ways to improve transistor performance is to increase charge-carrier mobility within the device channel. Motivated by this, we focus on the hole transport properties of Si and Ge quantum well.
+-	**Item**: _The fundamental factors affecting carrier mobility in quantum wells_
+-	**Motivation**: Nowadays, one of the key ways to improve transistor performance is to increase charge-carrier mobility within the device channel. Motivated by this, we focus on the hole transport properties of Si and Ge quantum well.
 
-#### State Key Laboratory for Superlattices and Microstructures | IOS- CAS				 08/2018-11/2020
--	Item: Design principles towards high hole mobility learning from an abnormally low hole mobility of silicon
--	Motivation: Silicon is the most widely used semiconductor material. However, why Silicon owns abnormal low hole mobility is a long-standing puzzle. It is even difficult to understand why Silicon as a non-polar semiconductor has lower hole mobility than the polar semiconductors GaSb and InSb. 
--Results: We have solved this long-standing puzzle and present a universal understanding rooted in the fundamental atomic properties. In the end, we also present design principles towards high hole mobility. Considering carrier mobility is one of the fundamental parameters, our finding has a significant impact on condensed matter physics, semiconductor community, and material sciences.
+#### State Key Laboratory for Superlattices and Microstructures | IOS- CAS				   08/2018-11/2020
+-	**Item**: Design principles towards high hole mobility learning from an abnormally low hole mobility of silicon
+-	**Motivation**: Silicon is the most widely used semiconductor material. However, why Silicon owns abnormal low hole mobility is a long-standing puzzle. It is even difficult to understand why Silicon as a non-polar semiconductor has lower hole mobility than the polar semiconductors GaSb and InSb. 
+- **Results**: We have solved this long-standing puzzle and present a universal understanding rooted in the fundamental atomic properties. In the end, we also present design principles towards high hole mobility. Considering carrier mobility is one of the fundamental parameters, our finding has a significant impact on condensed matter physics, semiconductor community, and material sciences.
 
 #### School of Applied Physics | USTB	& State Key Laboratory for Superlattices and Microstructures | IOS - CAS			09/2016– 05/2017
-- Item: The Initial Construction of Semiconductor Photoelectric Material Gene Pool
-- Results: Designed and wrote a framework (python) of high-throughput computing and researched the structural properties, electronic properties and mechanical properties about some semiconductor materials of group IV, III-V, IIB-VI and IB-VII via VASP. Besides, we calculated and analyzed material data for the initial construction of semiconductor photoelectric material gene pool.
+- **Item**: The Initial Construction of Semiconductor Photoelectric Material Gene Pool
+- **Results**: Designed and wrote a framework (python) of high-throughput computing and researched the structural properties, electronic properties and mechanical properties about some semiconductor materials of group IV, III-V, IIB-VI and IB-VII via VASP. Besides, we calculated and analyzed material data for the initial construction of semiconductor photoelectric material gene pool.
 
 #### Students Creative Practice Training Program |The Nano-Optoelectronics Laboratory| UCAS 		     	05/2015– 09/2016
--	Item: Sensitive Harmful Gas Detection based on 2-3um DFB Laser
--	Object: To perform rapid analysis and real-time monitoring of harmful gases.
--	Results: Designed and built a gas detection system, including an air cavity device, light path diagram. Detected the component of harmful gas based on the self-designed system and 2-3um DFB laser.
+-	**Item**: Sensitive Harmful Gas Detection based on 2-3um DFB Laser
+-	**Object**: To perform rapid analysis and real-time monitoring of harmful gases.
+-	**Results**: Designed and built a gas detection system, including an air cavity device, light path diagram. Detected the component of harmful gas based on the self-designed system and 2-3um DFB laser.
 
 #### Student Research Training Program | School of Materials Science and Engineering | USTB  06/ 2014 – 06/2015
--	Item: The Onset Temperature of Secondary Recrystallization and the Sharpness of Goss Texture in Low Temperature Nitriding Grain-Oriented Silicon Steel
--	Method: The onset temperature of secondary recrystallization and the sharpness of Goss texture were studied on grain-oriented silicon steel treated with low temperature reheating and Nitriding technique. The effects of grain size of primary recrystallization and nitrogen content were taken into consideration. Electron back-scattered diffraction (EBSD) technique was applied to reveal the microstructure evolution of specimens. 
--	Results: Studied the effect of low temperature reheating and Nitriding technique on the onset temperature of secondary recrystallization and the sharpness of Goss texture of grain-oriented silicon steel. Applied Electron back-scattered diffraction (EBSD) technique to reveal the microstructure evolution of specimens. Determined the onset temperature of secondary recrystallization by the interruptions in experiments.
+-	**Item**: The Onset Temperature of Secondary Recrystallization and the Sharpness of Goss Texture in Low Temperature Nitriding Grain-Oriented Silicon Steel
+-	**Method**: The onset temperature of secondary recrystallization and the sharpness of Goss texture were studied on grain-oriented silicon steel treated with low temperature reheating and Nitriding technique. The effects of grain size of primary recrystallization and nitrogen content were taken into consideration. Electron back-scattered diffraction (EBSD) technique was applied to reveal the microstructure evolution of specimens. 
+-	**Results**: Studied the effect of low temperature reheating and Nitriding technique on the onset temperature of secondary recrystallization and the sharpness of Goss texture of grain-oriented silicon steel. Applied Electron back-scattered diffraction (EBSD) technique to reveal the microstructure evolution of specimens. Determined the onset temperature of secondary recrystallization by the interruptions in experiments.
 
 ### Article																						        
 - Qiao-Lin Yang, Hui-Xiong Deng, Su-Huai Wei, Shu-Shen Li, and Jun-Wei Luo. Design principles towards high hole mobility learning from an abnormally low hole mobility of silicon. Submitted to Physical Review Letters. https://arxiv.org/abs/2011.02262
