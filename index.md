@@ -45,15 +45,15 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
       <p><b>Address：No.A35, QingHua East Road, Haidian District, Beijing, China 100083</b></p>
     </td>
     <td width="25%">
-      <img src="/qlyang.jpg" width="100%">      % 插入证件照代码
+      <img src="/qlyang.jpg" width="80%">      % 插入证件照代码
     </td>
   </tr>
 </table>
 
-### Personal Information 
-#### Name: YANG QIAOLIN
-#### Email: qlyang@semi.ac.cn 
-#### Adress: No.A35, QingHua East Road, Haidian District, Beijing, China 100083
+%### Personal Information 
+%#### Name: YANG QIAOLIN
+%#### Email: qlyang@semi.ac.cn 
+%#### Adress: No.A35, QingHua East Road, Haidian District, Beijing, China 100083
 
 ### EDUCATION                                   
 #### University of Chinese Academy of Sciences & Institute of Semiconductors- Chinese Academy of Sciences (IOS-CAS) 				  Beijing, China
