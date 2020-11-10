@@ -17,6 +17,7 @@ Master in Condensed Matter Physics, 	                                     (09/ 2
 - **Cumulative GPA**: 3.74/4.00; **Major GPA**: 3.94/4.00
 - **Core Courses**: Advanced Quantum Mechanics, Advanced Semiconductor Physics, Theory of the Solid State, Designing Semiconductor Quantum Materials, Mesoscopic Physics, Thermodynamics and Kinetics of Materials
 - **Honors and Awards**: Merit Student
+
 #### University of Science and Technology Beijing (USTB)	 									  Beijing, China
 Bachelor of Applied Physics (Huangkun Class), School of Mathematics and Physics	   		  (09/2013 – 06/ 2017)
 - **Cumulative GPA**: 3.77/4.00; **Major GPA**: 3.91/4.00
@@ -30,7 +31,7 @@ Bachelor of Applied Physics (Huangkun Class), School of Mathematics and Physics	
 
 #### State Key Laboratory for Superlattices and Microstructures | IOS- CAS				   (08/2018-11/2020)
 -	**Topic**: Design principles towards high hole mobility learning from an abnormally low hole mobility of silicon
--	**Motivation**: Silicon is the most widely used semiconductor material. However, why Silicon owns abnormal low hole mobility is a long-standing puzzle. It is even difficult to understand why Silicon as a non-polar semiconductor has lower hole mobility than the polar semiconductors GaSb and InSb. 
+-	**Motivation**: Silicon is the most widely used semiconductor material. However, why silicon owns abnormal low hole mobility is a long-standing puzzle. It is even difficult to understand why silicon as a non-polar semiconductor has lower hole mobility than the polar semiconductors GaSb and InSb. 
 - **Results**: We have solved this long-standing puzzle and present a universal understanding rooted in the fundamental atomic properties. In the end, we also present design principles towards high hole mobility. Considering carrier mobility is one of the fundamental parameters, our finding has a significant impact on condensed matter physics, semiconductor community, and material sciences.
 
 #### School of Applied Physics | USTB	& State Key Laboratory for Superlattices and Microstructures | IOS - CAS			(09/2016– 05/2017)
