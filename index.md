@@ -6,7 +6,7 @@
       <p><b>Address：No.A35, Qing Hua East Road, Haidian District, Beijing, China 100083</b></p>
     </td>
     <td width="25%">
-      <img src="/qlyang.jpg" width="80%">  
+      <img src="/qlyang.jpg" width="100%">  
     </td>
   </tr>
 </table>
