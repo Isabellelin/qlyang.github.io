@@ -49,7 +49,7 @@ Bachelor of Applied Physics (Huangkun Class), School of Mathematics and Physics	
 -	**Results**: Studied the effect of low temperature reheating and Nitriding technique on the onset temperature of secondary recrystallization and the sharpness of Goss texture of grain-oriented silicon steel. Applied Electron back-scattered diffraction (EBSD) technique to reveal the microstructure evolution of specimens. Determined the onset temperature of secondary recrystallization by the interruptions in experiments.
 
 ### Article																						        
-- **Qiao-Lin Yang, Hui-Xiong Deng, Su-Huai Wei, Shu-Shen Li, and Jun-Wei Luo**. Design principles towards high hole mobility learning from an abnormally low hole mobility of silicon. Submitted to Physical Review Letters. https://arxiv.org/abs/2011.02262
+- **Qiao-Lin Yang, Hui-Xiong Deng, Su-Huai Wei, Shu-Shen Li, and Jun-Wei Luo**. Design principles towards high hole mobility learning from an abnormally low hole mobility of silicon. Submitted to Physical Review Letters. <https://arxiv.org/abs/2011.02262>
 
 ### ACTIVITIES                                                                  
 #### Volunteering Activities 
