@@ -3,7 +3,7 @@
     <td width="75%">
       <h1>YANG QIAOLIN</h1>
       <p><b>Email：qlyang@semi.ac.cn</b></p>
-      <p><b>Address：No.A35, QingHua East Road, Haidian District, Beijing, China 100083</b></p>
+      <p><b>Address：No.A35, Qing Hua East Road, Haidian District, Beijing, China 100083</b></p>
     </td>
     <td width="25%">
       <img src="/qlyang.jpg" width="80%">  
@@ -12,7 +12,7 @@
 </table>
 
 ### EDUCATION                                   
-#### University of Chinese Academy of Sciences & Institute of Semiconductors- Chinese Academy of Sciences (IOS-CAS) 				  Beijing, China
+#### Institute of Semiconductors- Chinese Academy of Sciences (IOS-CAS) 				  Beijing, China
 Master in Condensed Matter Physics, 	                                     (09/ 2017 – 06/ 2021) (Expected)
 - **Cumulative GPA**: 3.74/4.00; Major GPA: 3.94/4.00
 - **Core Courses**: Advanced Quantum Mechanics, Advanced Semiconductor Physics, Theory of the Solid State, Designing Semiconductor Quantum Materials, Mesoscopic Physics, Thermodynamics and Kinetics of Materials
@@ -29,26 +29,26 @@ Bachelor of Applied Physics (Huangkun Class), School of Mathematics and Physics	
 -	**Motivation**: Nowadays, one of the key ways to improve transistor performance is to increase charge-carrier mobility within the device channel. Motivated by this, we focus on the hole transport properties of Si and Ge quantum well.
 
 #### State Key Laboratory for Superlattices and Microstructures | IOS- CAS				   (08/2018-11/2020)
--	**Item**: Design principles towards high hole mobility learning from an abnormally low hole mobility of silicon
+-	**Topic**: Design principles towards high hole mobility learning from an abnormally low hole mobility of silicon
 -	**Motivation**: Silicon is the most widely used semiconductor material. However, why Silicon owns abnormal low hole mobility is a long-standing puzzle. It is even difficult to understand why Silicon as a non-polar semiconductor has lower hole mobility than the polar semiconductors GaSb and InSb. 
 - **Results**: We have solved this long-standing puzzle and present a universal understanding rooted in the fundamental atomic properties. In the end, we also present design principles towards high hole mobility. Considering carrier mobility is one of the fundamental parameters, our finding has a significant impact on condensed matter physics, semiconductor community, and material sciences.
 
 #### School of Applied Physics | USTB	& State Key Laboratory for Superlattices and Microstructures | IOS - CAS			(09/2016– 05/2017)
-- **Item**: The Initial Construction of Semiconductor Photoelectric Material Gene Pool
+- **Topic**: The Initial Construction of Semiconductor Photoelectric Material Gene Pool
 - **Results**: Designed and wrote a framework (python) of high-throughput computing and researched the structural properties, electronic properties and mechanical properties about some semiconductor materials of group IV, III-V, IIB-VI and IB-VII via VASP. Besides, we calculated and analyzed material data for the initial construction of semiconductor photoelectric material gene pool.
 
-#### Students Creative Practice Training Program |The Nano-Optoelectronics Laboratory| UCAS 		     	(05/2015– 09/2016)
--	**Item**: Sensitive Harmful Gas Detection based on 2-3um DFB Laser
+#### Students Creative Practice Training Program |The Nano-Optoelectronics Laboratory| IOS-CAS 		     	(05/2015– 09/2016)
+-	**Topic**: Sensitive Harmful Gas Detection based on 2-3um DFB Laser
 -	**Object**: To perform rapid analysis and real-time monitoring of harmful gases.
 -	**Results**: Designed and built a gas detection system, including an air cavity device, light path diagram. Detected the component of harmful gas based on the self-designed system and 2-3um DFB laser.
 
 #### Student Research Training Program | School of Materials Science and Engineering | USTB  (06/ 2014 – 06/2015)
--	**Item**: The Onset Temperature of Secondary Recrystallization and the Sharpness of Goss Texture in Low Temperature Nitriding Grain-Oriented Silicon Steel
+-	**Topic**: The Onset Temperature of Secondary Recrystallization and the Sharpness of Goss Texture in Low Temperature Nitriding Grain-Oriented Silicon Steel
 -	**Method**: The onset temperature of secondary recrystallization and the sharpness of Goss texture were studied on grain-oriented silicon steel treated with low temperature reheating and Nitriding technique. The effects of grain size of primary recrystallization and nitrogen content were taken into consideration. Electron back-scattered diffraction (EBSD) technique was applied to reveal the microstructure evolution of specimens. 
 -	**Results**: Studied the effect of low temperature reheating and Nitriding technique on the onset temperature of secondary recrystallization and the sharpness of Goss texture of grain-oriented silicon steel. Applied Electron back-scattered diffraction (EBSD) technique to reveal the microstructure evolution of specimens. Determined the onset temperature of secondary recrystallization by the interruptions in experiments.
 
 ### Article																						        
-- Qiao-Lin Yang, Hui-Xiong Deng, Su-Huai Wei, Shu-Shen Li, and Jun-Wei Luo. Design principles towards high hole mobility learning from an abnormally low hole mobility of silicon. Submitted to Physical Review Letters. https://arxiv.org/abs/2011.02262
+- **Qiao-Lin Yang, Hui-Xiong Deng, Su-Huai Wei, Shu-Shen Li, and Jun-Wei Luo**. Design principles towards high hole mobility learning from an abnormally low hole mobility of silicon. Submitted to Physical Review Letters. https://arxiv.org/abs/2011.02262
 
 ### ACTIVITIES                                                                  
 #### Volunteering Activities 
