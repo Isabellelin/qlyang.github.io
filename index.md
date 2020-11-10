@@ -1,21 +1,3 @@
-/*
-Ref: 
-## Welcome to GitHub Pages
-You can use the [editor on GitHub](https://github.com/Isabellelin/qlyang.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-### Markdown
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-1. Numbered
-2. List
-**Bold** and _Italic_ and `Code` text
-*/
-
-
 <table border="0">
   <tr>
     <td width="75%">
@@ -28,11 +10,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
     </td>
   </tr>
 </table>
-
-;### Personal Information 
-;#### Name: YANG QIAOLIN
-;#### Email: qlyang@semi.ac.cn 
-;#### Adress: No.A35, QingHua East Road, Haidian District, Beijing, China 100083
 
 ### EDUCATION                                   
 #### University of Chinese Academy of Sciences & Institute of Semiconductors- Chinese Academy of Sciences (IOS-CAS) 				  Beijing, China
