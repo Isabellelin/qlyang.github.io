@@ -41,7 +41,7 @@ Bachelor of Applied Physics (Huangkun Class), School of Mathematics and Physics	
 #### Students Creative Practice Training Program |The Nano-Optoelectronics Laboratory| IOS-CAS 		     	(05/2015– 09/2016)
 -	**Topic**: Sensitive Harmful Gas Detection based on 2-3um DFB Laser
 -	**Object**: To perform rapid analysis and real-time monitoring of harmful gases.
--	**Results**: Designed and built a gas detection system, including an air cavity device, light path diagram. Detected the component of harmful gas based on the self-designed system and 2-3um DFB laser.
+-	**Results**: Designed and built a gas detection system, including an air cavity device, light path diagram. Detected the component of harmful gas based on the self-designed system and 2-3um DFB laser.  
 
 #### Student Research Training Program | School of Materials Science and Engineering | USTB  (06/ 2014 – 06/2015)
 -	**Topic**: The Onset Temperature of Secondary Recrystallization and the Sharpness of Goss Texture in Low Temperature Nitriding Grain-Oriented Silicon Steel
